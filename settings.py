@@ -9,3 +9,4 @@ class Settings():
 
         # Ship settings
         self.ship_speed_factor = 1.5
+        
